@@ -120,7 +120,7 @@ const modalClose = document.querySelector('.modal-close');
 const modalContactBtn = document.getElementById('modalContactBtn');
 
 const modalData = {
-    'a-frame': {
+    'frame': {
         title: 'Каркасный дом',
         content: `
             <p><strong>Каркасный дом</strong> — это тип здания, где несущую основу (скелет) составляет жесткий каркас из деревянных брусьев, досок или металлопрофиля.</p>
